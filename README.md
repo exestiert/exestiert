@@ -32,9 +32,8 @@ I am a Web Developer, currently looking for new challenges.
 - ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white) 
 - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-- ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-orange)
-- ![Adobe InDesign](https://img.shields.io/badge/-Adobe%20InDesign-ff69b4)
-- ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-blue)
-- ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-9cf)
-
+- ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white)
+- ![Adobe InDesign](https://img.shields.io/badge/Adobe_InDesign-FF3366?logo=adobe-indesign&logoColor=white)
+- ![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF?logo=adobe-lightroom&logoColor=white)
+- ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
 
