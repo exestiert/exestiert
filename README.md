@@ -31,6 +31,7 @@ I am a Web Developer, currently looking for new challenges.
 ### Design, Tools and Others
 - ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white) 
 - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) 
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+- ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-orange) 
 
 
